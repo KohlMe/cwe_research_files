@@ -1,0 +1,18 @@
+Apache versus NGINX
+
+The reason I choose Apache is that this platform includes the ability to
+control the server request behavior through .htaccess files, whereas NGINX
+does away with this control mechanism. It does this for the ability to
+answer server requests at a greater rate per second than Apache. I know that
+not having to read .htaccess files for each request makes NGINX faster, but
+I believe Apache's speed is plenty for my purposes. Instead, I value the
+ability to set up how someone accesses my site and server files with controls
+that are read on each request, which .htaccess files allows. Specific controls
+would be URL rewriting, authentication and authorization of directory access,
+and blocking users per IP address or domain.
+
+Additionally, Apache is so common, that the community is large and support
+materials and discussion boards are plentiful. Although there is no official
+support for the Apache HTTP server, there are mailing lists I can subscribe
+to for announcements about updates, and for support, such as the user mailing
+list.
