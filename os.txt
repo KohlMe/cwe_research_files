@@ -1,0 +1,38 @@
+Comparing OS Platforms: Ubuntu, CentOS, and RedHat (RHEL)
+
+Ubuntu is an operating system based on the Debian Linux kernel. There is a
+server version of Ubuntu that is also free and open source, but Ubuntu is
+well known as an entry-level home platform for beginning users of Linux,
+called Ubuntu Desktop. It uses its own custom user interface that is unique
+compared to Microsoft Windows of Mac OS.
+
+In relation to servers, RedHat usually refers to RedHat Enterprise Linux, a
+commercially available server distribution based on Fedora. Fedora is an
+operating system built from a Unix-like Linux kernel that is open-source and
+community-based, and commonly know through the free desktop home version,
+Fedora Workstation.
+
+CentOS is a downstream, free version of the RHEL enterprise server. Some
+aspects of CentOS are to be referred, then, to the upstream version (RHEL)
+when working with updates, fixes, and features.
+
+There are a few reasons I would choose to use Ubuntu Server. First, Ubuntu
+is a complete package, unlike CentOS, derived from the upstream RHEL.
+Because of my level of experience in dealing with server operating systems,
+I only wish to deal with one platform and one source for information about
+the server I'm running. In my research, I often have seen the reference to
+issues and topics about CentOS that need to be accessed on the RedHat site.
+This isn't the case with Ubuntu; it isn't derived from an enterprise version
+I also need to worry about. I don't wish to have to poke around in RHEL to
+get information to assist me with CentOS. 
+
+Also, Ubuntu offers more online sources of information by taking more of a
+'community' approach, and it has been easier to find many support topics,
+including installation guide, user manual, forums, and a additional 'Ask'
+portion of the website.
+
+Finally, Server 16.04 LTS, the latest server version, is supported for five
+years, with regularly scheduled 6-month updates. I like the predictability
+of the update schedule, as opposed to CentOS, without a set schedule and
+without knowing when to anticipate an update.
+
