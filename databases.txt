@@ -1,0 +1,27 @@
+MySQL versus MariaDB
+
+MySQL refers to an open-sourced relational database management system
+distributed by the Oracle Corporation, but it has different flavors. One
+version, MySQL Community Edition, is a free edition of smaller capacity
+that is supported by a large community of developers, but enterprise editions
+in which fees are charged do exist for meeting specific business needs. The
+community edition doesn't contain additional modules that may meet business
+requirements, such as monitoring, security, and auditing capabilities, or
+additional tools and support. Finally, the Enterprise version likely is
+updated with bug fixes on a more regular basis.
+
+MariaDB is also a relational DB management system, and it is derived directly
+from the MySQL source (as a downstream product), but the developer who created
+it has meant MariaDB to remain entirely free of charge and corporate control.
+Because is is written directly from the original MySQL code, MariaDB is
+interchangeable with MySQL in that it can replace the upstream original product
+and continue to run virtually identical in operation and management.
+
+I would choose to use MariaDB to support the idea of it being wholly free in
+distribution. Unlike any corporate control of a product, all of MariaDB's code
+is completely open for any developer to see, which translated into transparency
+of intent and encouraging discussion for the community supporting this system.
+This also means that any bugs that arise can be worked on by many code
+contributors, fixes are derived from open discussion and testing, and
+documentation freely shared in an unrestricted manner.
+
